@@ -16,7 +16,7 @@ namespace MAECare_SYNK
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Auth());
         }
     }
 }
